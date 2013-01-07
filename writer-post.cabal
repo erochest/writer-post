@@ -10,7 +10,7 @@ license:             Apache-2.0
 license-file:        LICENSE
 author:              Eric Rochester
 maintainer:          erochest@virginia.edu
--- copyright:           
+copyright:           2013 Rector and Board of Visitors, University of Virginia
 category:            Control
 build-type:          Simple
 cabal-version:       >=1.8
